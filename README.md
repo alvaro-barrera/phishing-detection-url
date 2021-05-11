@@ -1,6 +1,17 @@
 # DETECCIÓN DE PHISHING EN URL
 Detección de sitios sospechos utilizando Machine Learning
 
+## Dataset
+### dataset_full.csv: https://drive.google.com/file/d/1K6gRJgrCuB6o1s-VVf-Q05IwMpUkmmXx/view?usp=sharing
+- Número total de registros: 88,647
+    - Total de registros legítimos (etiqueta - 0): 58,000
+    - Total de registros phishing (etiqueta - 1): 30,647
+
+dataset_small.csv: https://drive.google.com/file/d/1dXB5XV8dJENIMXipuCEneJ_ZLRkNViLP/view?usp=sharing
+- Total number of instances: 58,645
+  - Total de registros legítimos (etiqueta - 0): 27,998
+  - Total de registros phishing (etiqueta - 1): 30,647
+  
 ## Descripción de contenido
 
 |          Feature           |                   Description                      |
